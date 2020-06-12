@@ -44,4 +44,9 @@
       * [3.3 WIFI控制](ch0/RepTaskBasic.md)
 
     * [第四章 例程](ch0/RepSearchPractice.md)
-* [K210版本菠萝狗 AI.BL.DOG （待添加）](README.md)
+* [K210版本菠萝狗 AI.BL.DOG ](README.md)
+      * [1 三维结构](ch0/RepTaskBasic.md)
+    
+      * [2 装配 ](ch0/RepTaskBasic.md)
+    
+      * [3 初步调试](ch0/RepTaskBasic.md)
